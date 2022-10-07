@@ -1,3 +1,5 @@
+![banner](./Photos/Lama-banner.png)
+
 ### Hi there 👋
 
 <!--
