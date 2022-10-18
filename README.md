@@ -26,7 +26,6 @@ I'm a full-stack developer 💻, currently working on Android studio and web-dev
 
 <h2 align="center"> 🔭 projects in the pipeline </h2>
 
-- Blog post about login-registration-password recovery
 - Multiplayer trivia app (live online, Android Studio)
 - IoT electronics embedded device project.
   Low Power, deep sleep, LPWAN, embedded devices, IoT, app, graphs.
@@ -86,8 +85,8 @@ I'm a full-stack developer 💻, currently working on Android studio and web-dev
 </br>
 
 <h2 align="center"> 📝 Latest Blog Posts </h2>
-
-- Under construction
+<a href="https://medium.com/@benjaminvandersmissen/login-register-password-recovery-in-android-studio-java-98159f06273a"><img align="left" src="https://medium.com/@benjaminvandersmissen/login-register-password-recovery-in-android-studio-java-98159f06273a
+" alt="Benjamin Van der Smissen | Medium" width="21px"/></a>
 
 <h2 align="center"> 📈 GitHub Stats </h2>
 
