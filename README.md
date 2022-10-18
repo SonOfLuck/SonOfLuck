@@ -85,8 +85,7 @@ I'm a full-stack developer 💻, currently working on Android studio and web-dev
 </br>
 
 <h2 align="center"> 📝 Latest Blog Posts </h2>
-<a href="https://medium.com/@benjaminvandersmissen/login-register-password-recovery-in-android-studio-java-98159f06273a"><img align="left" src="https://medium.com/@benjaminvandersmissen/login-register-password-recovery-in-android-studio-java-98159f06273a
-" alt="Benjamin Van der Smissen | Medium" width="21px"/></a>
+- <a href="https://medium.com/@benjaminvandersmissen/login-register-password-recovery-in-android-studio-java-98159f06273a"></a>
 
 <h2 align="center"> 📈 GitHub Stats </h2>
 
